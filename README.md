@@ -7,6 +7,8 @@
 
 OpenLayers Editor (OLE) is based on [OpenLayers](https://openlayers.org/) and provides a set of controls for extended editing of spatial data.
 
+This is a copy for private purposes. Go to the original!
+
 Contributions are welcome! Feel free to add more controls and to extend the current functionality.
 Additionally, the build process is currently very basic and could be optimized.
 Translations would be nice, too.
